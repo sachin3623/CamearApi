@@ -1,1 +1,1 @@
-# CamearApi
+# CameraApi
